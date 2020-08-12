@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name"></string>
+    <string name="welcome">Welcome the app</string>
+    <string name="sub_text">3,666 businesses signed up last week.\nTry Acme free for 30days.</string>
+    <string name="signUp">Sign Up</string>
+    <string name="signIn">Sign In</string>
+</resources>
